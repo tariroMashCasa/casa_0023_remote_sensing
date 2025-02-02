@@ -63,7 +63,10 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 # Trying it out on historic wild fires in California
 
 - What am i trying to do maybe add in the flow diagram of the analysis.
-- Another bullet point
+```{r}
+library(knitr)
+knitr::include_graphics('images/SNN similarity flow diagram.png')
+```
 
 ---
 # Initial results on testing the SNNs on the SAR images
