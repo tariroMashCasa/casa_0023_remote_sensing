@@ -1,0 +1,57 @@
+---
+title: "Week 2 Learning Diary"
+subtitle: "Sentinel 1 SAR"
+author: "Tariro Mashongamhende"
+institute: "UCL, CASA"
+date: "2025/01/24 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+
+
+
+Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
+
+
+---
+
+# What is Sentinel 1's SAR sensor?
+
+
+---
+
+# How does it work?
+
+
+---
+
+# How is it used in academic research?
+
+- Ollie Ballingers's PWTT research on building damage detection
+- Ban et al. (2020) on using Sentinel SAR data to train a deep neural network classifier for near-real time fire detection 
+
+
+---
+# How can SAR be used for near real-time fire detection
+
+---
+
+# Trying it out on historic wild fires in California
+
+- What am i trying to do maybe add in the flow diagram of the analysis.
+- Another bullet point
+
+---
+# Initial results on testing the SNNs on the SAR images
+
+
+
+---
+# Reflections
