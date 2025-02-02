@@ -70,11 +70,22 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 
 
 .pull-left[
-random text left
+VV backscatter similarity using a SNN for a location in California 
+```{r}
+library(knitr)
+#{r echo=FALSE, out.width='60%', fig.align='center'}
+knitr::include_graphics('images/VV change in backscatter for a random location which has had a fire.png')
+```
+
 ]
 
 .pull-right[
-random text right
+VH backscatter for the same location with fires overlaid (also using SNNs)
+```{r}
+library(knitr)
+knitr::include_graphics('images/VH change in backscatter for a random location which has had a fire.png')
+```
+
 ]
 
 ---
