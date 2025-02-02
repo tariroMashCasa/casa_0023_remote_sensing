@@ -24,7 +24,7 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 
 # What is Sentinel 1's SAR sensor?
 
-background-image: url(https://sentiwiki.copernicus.eu/__attachments/1680406/Sentinel-1.jpg?inst-v=4173af95-a9c8-423a-ad60-8ad8fb81a94c)
+![](https://sentiwiki.copernicus.eu/__attachments/1680406/Sentinel-1.jpg?inst-v=4173af95-a9c8-423a-ad60-8ad8fb81a94c)
 ---
 
 # How does it work and why am I interested in it?
