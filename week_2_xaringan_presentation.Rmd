@@ -35,15 +35,17 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 
 ---
 
-# How is it used in academic research?
+# How is it used in academic research at UCL?
 
 - Ollie Ballingers's PWTT research on building damage detection
   - UCL lecturer Ollie Ballinger has released a paper on using SAR imagery to detect damage in buildings.
   - His work explores the trade-offs of using machine learning approaches compared to statistical based approaches as well as discusses the two main ways SAR imagery is used to detect change and their relative merits and drawbacks, namely through phase change or amplitude change.
-  - [Add image here]
+  - ![](https://github.com/oballinger/PWTT/raw/main/figs/pwtt_pre_post.png)
+
+---
+#How is it used in to understand the recent fire outbreaks in California?
 - Ban et al. (2020) on using Sentinel SAR data to train a deep neural network classifier for near-real time fire detection 
-  - Researchers from Sweden and British Columbia have used SAR images to create identify areas burned by fires from the Sentinel 1 SAR images.
-  - [Add image here]
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-019-56967-x/MediaObjects/41598_2019_56967_Fig5_HTML.png?as=webp)
 
 
 ---
@@ -67,6 +69,13 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 # Initial results on testing the SNNs on the SAR images
 
 
+.pull-left[
+random text left
+]
+
+.pull-right[
+random text right
+]
 
 ---
 # Reflections
