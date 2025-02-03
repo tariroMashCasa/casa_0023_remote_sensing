@@ -11,14 +11,6 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
----
-
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
-
-
-
-Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
-
 
 ---
 
