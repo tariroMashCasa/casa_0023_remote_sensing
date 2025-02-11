@@ -17,11 +17,6 @@ output:
 # What is Sentinel 1's SAR sensor?
 
 
-```{r}
-library(knitr)
-knitr::include_graphics('images/sentinel_1_satellite.png')
-```
-
 ---
 
 # How does it work and why am I interested in it?
@@ -38,19 +33,11 @@ knitr::include_graphics('images/sentinel_1_satellite.png')
   - UCL lecturer Ollie Ballinger has released a paper on using SAR imagery to detect damage in buildings.
   - His work explores the trade-offs of using machine learning approaches compared to statistical based approaches as well as discusses the two main ways SAR imagery is used to detect change and their relative merits and drawbacks, namely through phase change or amplitude change.
 
-```{r}
-library(knitr)
-knitr::include_graphics('images/pwtt_pre_post.png')
-```
 
 ---
 #How is it used in to understand the recent fire outbreaks in California?
 - Ban et al. (2020) on using Sentinel SAR data to train a deep neural network classifier for near-real time fire detection 
 
-```{r}
-library(knitr)
-knitr::include_graphics('images/image_grid_1.png')
-```
 
 ---
 # How can SAR be used for near real-time fire detection
