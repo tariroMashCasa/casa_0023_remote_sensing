@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "My Learning Diary RS site"
@@ -9,8 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - docs/ld_week_2.qmd
-      - docs/week_4_policy.qmd
+      - ld_week_2.qmd
+      - week_4_policy.qmd
 
 format:
   html:
