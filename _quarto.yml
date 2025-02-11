@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - ld_week_2.qmd
+      - week_4_policy.qmd
 
 format:
   html:
