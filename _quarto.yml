@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - learning diary - week 2.qmd
+      - ld_week_2.qmd
 
 format:
   html:
