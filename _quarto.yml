@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - ld_week_2.qmd
-      - week_4_policy.qmd
+      - docs/ld_week_2.qmd
+      - docs/week_4_policy.qmd
 
 format:
   html:
