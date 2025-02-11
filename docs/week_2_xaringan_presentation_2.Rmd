@@ -45,7 +45,6 @@ Ban et al. (2020) on using Sentinel SAR data to train a deep neural network clas
 =======
 # How is it used in to understand the recent fire outbreaks in California?
 - Ban et al. (2020) on using Sentinel SAR data to train a deep neural network classifier for near-real time fire detection.
->>>>>>> 948213a0f16dd4f38404b817af1077c0e8a3597d
 
 
 ---
@@ -64,10 +63,7 @@ Ban et al. (2020) on using Sentinel SAR data to train a deep neural network clas
 # Trying it out on historic wild fires in California
 
 - What am i trying to do maybe add in the flow diagram of the analysis.
-```{r}
-library(knitr)
-knitr::include_graphics('images/SNN similarity flow diagram.png')
-```
+
 
 ---
 # Initial results on testing the SNNs on the SAR images
@@ -75,20 +71,12 @@ knitr::include_graphics('images/SNN similarity flow diagram.png')
 
 .pull-left[
 VV backscatter similarity using a SNN for a location in California 
-```{r}
-library(knitr)
-#{r echo=FALSE, out.width='60%', fig.align='center'}
-knitr::include_graphics('images/VV change in backscatter for a random location which has had a fire.png')
-```
+
 
 ]
 
 .pull-right[
 VH backscatter for the same location with fires overlaid (also using SNNs)
-```{r}
-library(knitr)
-knitr::include_graphics('images/VH change in backscatter for a random location which has had a fire.png')
-```
 
 ]
 
